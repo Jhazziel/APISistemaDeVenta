@@ -1,0 +1,17 @@
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.deps.json
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfoInputs.cache
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfo.cs
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.dll
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Utility\obj\Debug\net7.0\refint\SistemaVenta.Utility.dll
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Utility\obj\Debug\net7.0\ref\SistemaVenta.Utility.dll
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.CopyComplete

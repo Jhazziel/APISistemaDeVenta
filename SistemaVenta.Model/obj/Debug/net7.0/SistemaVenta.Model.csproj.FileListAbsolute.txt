@@ -1,0 +1,14 @@
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.deps.json
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.runtimeconfig.json
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.dll
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Model\obj\Debug\net7.0\refint\SistemaVenta.Model.dll
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.pdb
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.Model\obj\Debug\net7.0\ref\SistemaVenta.Model.dll
