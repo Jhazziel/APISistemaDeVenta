@@ -21,18 +21,18 @@ INSERT INTO Categoria(nombre,esActivo) values
 go
 
 insert into Producto(nombre,idCategoria,stock,precio,esActivo) values
-('Picante de pollo',1,20,2500,1),
-('Charque',1,30,2200,1),
-('Pique',1,30,2100,1),
-('Pailita',2,25,1050,1),
+('Picante de pollo',1,20,25,1),
+('Charque',1,30,90,1),
+('Pique',1,30,80,1),
+('Pailita',2,25,40,1),
 
-('Api',2,15,1400,0),
-('Tojorí',2,10,1350,0),
-('Api mixto',3,10,800,0),
+('Api',2,15,10.50,0),
+('Tojorí',2,10,10.5,0),
+('Api mixto',3,10,13,0),
 
-('Milanesa',3,10,1000,0),
-('Albóndiga',3,10,1000,0),
-('Chairo',4,15,800,0),
+('Milanesa',3,10,8,0),
+('Albóndiga',3,10,8,0),
+('Chairo',4,15,5,0)
 
 go
 
