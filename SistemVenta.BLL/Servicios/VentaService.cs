@@ -17,14 +17,31 @@ namespace SistemaVenta.BLL.Servicios
     {
         private readonly IVentaRepository _ventaRepositorio;
         private readonly IGenericRepositorio<DetalleVenta> _detalleVentaRepositorio;
+        private readonly IGenericRepositorio<Venta> _ventaRepositorioTable;
         private readonly IMapper _mapper;
 
-        public VentaService(IVentaRepository ventaRepositorio, IGenericRepositorio<DetalleVenta> detalleVentaRepositorio, IMapper mapper)
+        public VentaService(IVentaRepository ventaRepositorio, IGenericRepositorio<Venta> ventaRepositorioTable, IGenericRepositorio<DetalleVenta> detalleVentaRepositorio, IMapper mapper)
         {
+            _ventaRepositorioTable = ventaRepositorioTable;
             _ventaRepositorio = ventaRepositorio;
             _detalleVentaRepositorio = detalleVentaRepositorio;
             _mapper = mapper;
         }
+
+        public async Task<List<VentaDTO>> Lista()
+        {
+            try
+            {
+                var queryUsuario = await _ventaRepositorioTable.Consultar();
+
+                return _mapper.Map<List<VentaDTO>>(queryUsuario);
+            }
+            catch
+            {
+                throw;
+            }
+        }
+
         public async Task<VentaDTO> Registrar(VentaDTO modelo)
         {
             try

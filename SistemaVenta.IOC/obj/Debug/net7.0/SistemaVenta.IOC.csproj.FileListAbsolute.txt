@@ -21,3 +21,4 @@ C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.IOC\obj\Debug\ne
 C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CopyComplete
 C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.dll
 C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.sourcelink.json

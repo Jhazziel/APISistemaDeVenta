@@ -38,7 +38,27 @@ namespace SistemaVenta.API.Controllers
         }
 
         [HttpGet]
-        [Route("Historial/{buscarPor}/{numeroVenta}/{fechaInicio}/{fechaFin}")]
+        [Route("lista")]
+        public async Task<IActionResult> Lista()
+        {
+            var rsp = new Response<List<VentaDTO>>();
+
+            try
+            {
+                rsp.Status = true;
+                rsp.Value = await _ventaService.Lista();
+            }
+            catch (Exception ex)
+            {
+                rsp.Status = false;
+                rsp.Msg = ex.Message;
+            }
+
+            return Ok(rsp);
+        }
+
+        [HttpGet]
+        [Route("Historial")]
         public async Task<IActionResult> Historial(string buscarPor, string? numeroVenta, string? fechaInicio, string? fechaFin)
         {
             var rsp = new Response<List<VentaDTO>>();
@@ -62,7 +82,7 @@ namespace SistemaVenta.API.Controllers
 
 
         [HttpGet]
-        [Route("Reporte/{fechaInicio}/{fechaFin}")]
+        [Route("Reporte")]
         public async Task<IActionResult> Reporte(string? fechaInicio, string? fechaFin)
         {
             var rsp = new Response<List<ReporteDTO>>();

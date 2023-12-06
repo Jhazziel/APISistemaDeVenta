@@ -13,3 +13,4 @@ C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.DAL\bin\Debug\ne
 C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.pdb
 C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
 C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CopyComplete
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.sourcelink.json

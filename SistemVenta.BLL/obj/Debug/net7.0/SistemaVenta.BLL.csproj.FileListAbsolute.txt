@@ -19,3 +19,4 @@ C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemVenta.BLL\obj\Debug\net
 C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemVenta.BLL\obj\Debug\net7.0\refint\SistemaVenta.BLL.dll
 C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.pdb
 C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemVenta.BLL\obj\Debug\net7.0\ref\SistemaVenta.BLL.dll
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemVenta.BLL\obj\Debug\net7.0\SistemaVenta.BLL.sourcelink.json

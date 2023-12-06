@@ -83,3 +83,4 @@ C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVente.API\obj\Debug\ne
 C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVente.API\obj\Debug\net7.0\ref\SistemaVenta.API.dll
 C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVente.API\bin\Debug\net7.0\SistemaVenta.BLL.dll
 C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVente.API\bin\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\Users\Winston\Desktop\DBVENTA\APISistemaDeVenta\SistemaVente.API\obj\Debug\net7.0\SistemaVenta.API.sourcelink.json

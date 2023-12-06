@@ -30,14 +30,15 @@ namespace SistemaVenta.DAL.Repositorios
                 {
                     foreach(DetalleVenta dv in modelo.DetalleVenta)
                     {
-                        Producto p_found = _dbContext.Productos.Where(p => p.IdProducto == dv.IdProducto).First();
-                        p_found.Stock -= dv.Cantidad;
-                        _dbContext.Productos.Update(p_found);
+                        Producto productoEncontrado = _dbContext.Productos.Where(p => p.IdProducto == dv.IdProducto).First();
+                        productoEncontrado.Stock = productoEncontrado.Stock - dv.Cantidad;
+                        _dbContext.Productos.Update(productoEncontrado);
+
                     }
                     await _dbContext.SaveChangesAsync();
 
                     NumeroDocumento numDoc = _dbContext.NumeroDocumentos.First();
-                    numDoc.UltimoNumero += 1;
+                    numDoc.UltimoNumero = numDoc.UltimoNumero + 1;
                     numDoc.FechaRegistro = DateTime.Now;
 
                     _dbContext.NumeroDocumentos.Update(numDoc);
@@ -48,8 +49,10 @@ namespace SistemaVenta.DAL.Repositorios
                     string numVenta = ceros + numDoc.UltimoNumero.ToString();
 
                     numVenta = numVenta.Substring(numVenta.Length-CantidadDigitos, CantidadDigitos);
+                  
 
                     modelo.NumeroDocumento = numVenta;
+                    modelo.FechaRegistro = DateTime.Now;
                     await _dbContext.Venta.AddAsync(modelo);
                     await _dbContext.SaveChangesAsync();
 
